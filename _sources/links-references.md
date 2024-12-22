@@ -1,4 +1,4 @@
-# Links and References:
+# Links and References
 
 ### Project website (Streamlit app):
 https://loanapprovalappbyvaibhav.streamlit.app/
@@ -44,7 +44,7 @@ https://github.com/Vr1155/EAS503_FASTAPI
 https://github.com/Vr1155/EAS503_Streamlit
 
 # Link to Docker container:
-https://hub.docker.com/repository/docker/vr1155/loan_repo/general
+https://hub.docker.com/repository/docker/vr1155/loan_fall25_xgboost_deployed/general
 
 # Link to Dataset:
 https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data/data
