@@ -1,6 +1,6 @@
 # Links and References:
 
-### Project website:
+### Project website (Streamlit app):
 
 https://loanapprovalappbyvaibhav.streamlit.app/
 
